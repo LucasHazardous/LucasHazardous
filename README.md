@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=white&color=f50025)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=f50025)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=f50025)
+![](https://img.shields.io/badge/Code-Go-informational?style=plastic&logo=go&logoColor=white&color=f50025)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=f50025)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=php&logoColor=white&color=f50025)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=plastic&logo=vue.js&logoColor=white&color=f50025)
